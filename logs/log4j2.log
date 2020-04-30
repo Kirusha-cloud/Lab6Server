@@ -1,0 +1,35 @@
+2020-04-30 14:38:43,434 INFO L.Server [main] Server started
+2020-04-30 14:39:24,221 INFO L.Server [main] Получение нового подключения Thu Apr 30 14:39:24 MSK 2020
+2020-04-30 14:39:25,728 INFO L.Server [main] Пытаюсь создать объект info
+2020-04-30 14:39:25,729 INFO L.Server [main] Object recieved: info
+2020-04-30 14:39:25,729 INFO L.Server [main] [Команда info: 
+Класс коллекции: class java.util.PriorityQueue
+Время создания коллекции: Thu Apr 30 14:38:43 MSK 2020
+Количество элементов коллекции: 2]
+2020-04-30 14:39:25,729 INFO L.Server [main] Ответ ушёл успешно.
+2020-04-30 14:41:16,507 INFO L.Server [main] Пытаюсь создать объект help
+2020-04-30 14:41:16,507 INFO L.Server [main] Object recieved: help
+2020-04-30 14:41:16,507 INFO L.Server [main] [Список доступных команд:
+add
+add_if_max
+clear
+execute_script
+exit
+group_counting_by_transport
+help
+history
+info
+min_by_furniture
+print_field_descending_number_of_rooms
+remove_by_id
+remove_greater
+show
+update]
+2020-04-30 14:41:16,507 INFO L.Server [main] Ответ ушёл успешно.
+2020-04-30 14:41:20,848 INFO L.Server [main] Пытаюсь создать объект history
+2020-04-30 14:41:20,848 INFO L.Server [main] Object recieved: history
+2020-04-30 14:41:20,848 INFO L.Server [main] [Последние 13 использованных команд: 
+history
+help
+info]
+2020-04-30 14:41:20,848 INFO L.Server [main] Ответ ушёл успешно.
